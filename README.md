@@ -1,4 +1,4 @@
-#MyCalculator App
+# MyCalculator App
 This is a calculator app developed in kotlin which performs basic arithmetic operations
 The idea of this project was to learn the syntax and semantics of kotlin.
 
